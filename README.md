@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I am an aspiring sofware engineer.
+- I am eager to aplly my problem solving skills to real-world applications.
+- I am currently learning Docker, Springboot, Django, Tensorflow.
+- I am currently a final year student at the University of Pretoria.
+   
